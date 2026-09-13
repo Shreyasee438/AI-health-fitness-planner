@@ -77,7 +77,7 @@ st.markdown("""
 
 st.markdown(
     '<h1 class="title">'
-    '🏋️‍♂️ AI Health & Fitness Plan Generator'
+    '🏋️‍♂️ FitHealth'
     '</h1>',
     unsafe_allow_html=True
 )

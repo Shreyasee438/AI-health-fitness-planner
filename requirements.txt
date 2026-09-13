@@ -1,5 +1,5 @@
 streamlit==1.63.0
 agno
 google-genai
-duckduckgo-search
+ddgs
 pandas
